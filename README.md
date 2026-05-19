@@ -1,4 +1,4 @@
-# Recipe App API — TDD with Django REST Framework
+# TDD with DRF
 
 A project for setting up **Test-Driven Development (TDD)** using Python, Django REST Framework, and PostgreSQL. The domain is a recipe management API, but the focus is on writing tests first and letting them drive the implementation.
 
